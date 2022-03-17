@@ -1,14 +1,15 @@
 ---
-title: Publishing OA at MRC Epidemiology Unit
-teaching: 20
+title: Publishing OA at the MRC Epidemiology Unit
+teaching: 45
 exercises: null
 duration: null
 summary: How to publish Open Access articles as a member of the MRC Epidemiology Unit.
 questions: null
 objectives: null
 keypoints:
-  - Upload copies to Pure for Green Open Access
-  - Finding funds for Gold and Hybrid Open Access
+  - Notify publications@mrc-epid.cam.ac.uk at acceptance
+  - Include a data access statement and rights retention statement
+  - Write a short lay summary for the Unit website (if a Unit-led paper)
 is-break: null
 ukrn_wb_rules: []
 day: 1
