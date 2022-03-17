@@ -1,7 +1,7 @@
 ---
 title: Why publish open access?
 teaching: null
-exercises: 31
+exercises: 30
 duration: null
 summary: A discussion on the pros (and cons?) of sharing open access publishing.
 questions: null
