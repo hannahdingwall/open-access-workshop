@@ -12,8 +12,8 @@ keypoints:
     corresponding author or a named individual
 is-break: false
 ukrn_wb_rules: []
-day: 2
-order: 100000
+day: 1
+order: 212500
 
 ---
 ## What is a data access statement?
