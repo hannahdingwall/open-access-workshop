@@ -13,7 +13,7 @@ keypoints:
 is-break: null
 ukrn_wb_rules: []
 day: 1
-order: 300000
+order: 203125
 missingDependencies: []
 dependencies: []
 originalRepository: UKRN-Open-Research/open-code-workshop-template
