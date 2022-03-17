@@ -10,3 +10,6 @@ _Open Access training introduces you to the fundamentals of Open Access publishi
 provides you with practical tools for publishing real articles in Open Access journals.
 It also acts as a platform for further self-directed learning.
 Other UKRN Open Research topics can be found in the [list of UKRN Primers](https://ukrn.org/primers/)._
+
+
+_**Please note this training was last updated DD MMM YYYY, and the policies and processes discussed may no longer be relevant. Always check with your open access champion prior to taking any advice.**_
