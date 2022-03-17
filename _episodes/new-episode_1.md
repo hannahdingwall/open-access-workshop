@@ -21,18 +21,12 @@ order: 225000
 ---
 ## Rights Retention Statement
 
-> ## Considering the concerns `5 min`
-> In the same groups, try to think of reasons people might hesitate to publish their work openly.
-> Again, use the <a href="{{ site.collaborative_notes }}" target="_blank">collaborative notes document</a>
-> to jot down any ideas you come up with.
-> > ## Ideas
-> > Some reasons that are commonly cited are:
-> > - People might find mistakes in my work
-> > - People might misunderstand my work
-> > - It takes time to write papers in a way that is suitable for people outside my field to understand
-> > - Publishing open access is too expensive
-> > - People could use my work for purposes I don't agree with
-> > - I worked hard to collect these data and I don't want non-academics to benefit from my work
-> > - I want to start a business based on my work and I want to keep an advantage over other companies
-> {: .solution}
-{: .prereq}
+> ## Can I...? `10 min`
+> For each item, try to work out if it applies to Green, Hybird, Gold, and Diamond
+> Open Access models.
+> - Articles are peer reviewed before publication
+> - Authors get to choose from any journal
+> - The journal provides free, unrestricted access to the article
+> - The journal charges the authors a fee for publication
+> - An enhanced version of the article is available under restricted access terms
+{: .discussion}
