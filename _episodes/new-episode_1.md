@@ -1,12 +1,18 @@
 ---
-title: New Lesson test
-teaching: 10
-exercises: 20
+title: Rights Retention Statements
+teaching: 15
+exercises: 5
 duration: 0
 summary: ""
 questions: null
-objectives: null
-keypoints: null
+objectives:
+  - Understand what a rights retention statement is
+  - Understand when is appropriate to use one
+keypoints:
+  - A rights retention statement should be included in all papers, but
+    especially in papers submitted to non-compliant journals
+  - Not including a rights retention statement when submitting to a
+    non-compliant journal may mean we need to use alternative funding sources
 is-break: false
 ukrn_wb_rules: []
 day: 1
