@@ -13,8 +13,8 @@ keypoints:
   - You can upload bigger files by request
 is-break: null
 ukrn_wb_rules: []
-day: 1
-order: 450000
+day: null
+order: 100000
 missingDependencies: []
 dependencies: []
 originalRepository: UKRN-Open-Research/ukrn-wb-lesson-templates
