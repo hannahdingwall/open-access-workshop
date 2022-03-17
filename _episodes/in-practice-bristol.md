@@ -19,9 +19,9 @@ dependencies: []
 originalRepository: UKRN-Open-Research/open-code-workshop-template
 
 ---
-## Submission hello
+## Submission
 
-Where you can submit, and how the Open Access costs are paid, depends on who has funded your work.
+Where you can submit, and how the Open Access costs are paid, depends on who has funded your work. Most of our research is funded by the MRC, meaning we need to follow [UKRI's Open Access policy](https://www.ukri.org/publications/ukri-open-access-policy/).
 
 ### _Everyone_
 
