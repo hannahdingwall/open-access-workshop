@@ -21,9 +21,10 @@ order: 225000
 ---
 ## Rights Retention Statement
 
-> ## Can I...? `10 min`
-> For each item, try to work out if it applies to Green, Hybird, Gold, and Diamond
-> Open Access models.
+> ## What is a rights retention statement `2 min`
+> This is a test and something that might well have information in at some point, but for now I'm just testing it out.
+> 
+> Open Access Models:
 > - Articles are peer reviewed before publication
 > - Authors get to choose from any journal
 > - The journal provides free, unrestricted access to the article
